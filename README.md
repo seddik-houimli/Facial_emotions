@@ -6,7 +6,7 @@ This github repository is part of a research study made in order to do the bench
 2) Google Cloud | Vertex AI
 3) AWS SageMaker Studio
 
-> Note: This repository is subdivide into 4 main directories each is serving a certain cause.
+> Note: This repository is subdivided into 4 main directories each is serving a certain cause.
 
 | Directory | Cause |
 | ------ | ------ |
